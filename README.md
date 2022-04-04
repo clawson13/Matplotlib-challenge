@@ -15,7 +15,7 @@ Pandas, Matplotlib, Jupyter Notebook
 
 * Sample data for one mouse shows Capomulin may reduce tumor volume as much as 10% over a 45-day period.
 
-![alt text](https://github.com/clawson13/Matplotlib-challenge.git/images/linechart.jpg?raw=true)
+![alt text](https://github.com/clawson13/Matplotlib-challenge/blob/b2b86b7e10757dd317c1699e201e05be8b98cd5a/images/linechart.jpg)
 
 * Per scatter plot data provided below, there appears to be a direct correlation between a mouse's weight and tumor volume: a measured correlation coefficient of 0.84.
 
