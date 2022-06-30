@@ -1,12 +1,12 @@
-# Matplotlib-Homework: Pymaceuticals Inc.
+# Pymaceuticals Inc.
 
-Homework for Boot Camp Week 5: Matplotlib; Submitted by Corey Lawson-Enos
+Prepared by Corey Lawson-Enos
 
 ## Summary
 Pymaceuticals Inc.: Impact analysis of twelve drug regimens on squamous cell carcinoma (SCC) tumor volume over a period of 5 to 45 days, with a summary data focus on Capomulin (Pymaceuticals), Ramicane, Infubinol, and Ceftamin.
 
 ## Technologies
-Pandas, Matplotlib, Jupyter Notebook
+Pandas, Matplotlib, SciPy, NumPy, Jupyter Notebook
 
 ## Additional Analysis
 * Capomulin's results appear to be one of the most effective treatments in reducing tumor size when compared to three peers--although Ramicane may have slightly better results. Average tumor volume for both Capomulin and Ramicane subjects remained lowest amongst all treatments too, both with the lowest SEM as well.
