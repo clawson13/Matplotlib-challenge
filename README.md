@@ -20,3 +20,7 @@ Pandas, Matplotlib, SciPy, NumPy, Jupyter Notebook
 * Per scatter plot data provided below, there appears to be a direct correlation between a mouse's weight and tumor volume: a measured correlation coefficient of 0.84.
 
 ![alt text](https://github.com/clawson13/Matplotlib-challenge/blob/c3c68dd6792fb961021145d1b9a2a19eb26a7ef7/images/regression.jpg)
+
+## Contact
+E-mail: clawson131@gmail.com<br>
+LinkedIn: https://www.linkedin.com/in/corey-lawson-enos/
